@@ -1,6 +1,6 @@
-# Recipe Page
+# recipe page
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
+This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
 ## Overview
 
@@ -10,13 +10,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-Gw-tQ6ew5z)
-- Live Site URL: [Add live site URL here](https://ei7mo.github.io/recipe-page/)
+- [Solution URL](https://www.frontendmentor.io/solutions/recipe-page-Gw-tQ6ew5z)
+- [Live Site URL](https://ei7mo.github.io/recipe-page/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- Vanilla CSS
-- Responsive design
+- Semantic HTML
+- CSS properties
+- Media Queries
